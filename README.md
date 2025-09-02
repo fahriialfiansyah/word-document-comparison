@@ -1,4 +1,4 @@
-# Word Document Comparison
+# Word Document Comparison Using Spire.Doc
 
 <img width="1682" height="567" alt="image" src="https://github.com/user-attachments/assets/8c31e3cc-7844-4c93-b74b-98628aa8c604" />
 
